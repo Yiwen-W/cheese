@@ -79,7 +79,7 @@ theme: hexo-theme-Annie
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/wyw121/wyw121.github.io.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  repo: https://github.com/Yiwen-W/yiwen-w.github.io.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: master #published
 
 
@@ -87,4 +87,4 @@ search:
   path: search.json
   zipPath: search.zip
   versionPath: searchVersion.txt
-  field: post
+  field: all
