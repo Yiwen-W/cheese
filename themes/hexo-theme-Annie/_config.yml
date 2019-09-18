@@ -13,7 +13,7 @@ menu:
 # favicon & logo
 # if the value of logo is false, the 'title' is optional.
 favicon: /img/favicon.ico
-logo: /img/logo.png
+# logo: /img/logo.png
 title: Welcome 
 
 # background_image
